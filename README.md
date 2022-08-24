@@ -2,7 +2,7 @@
 [SKT FLY AI Hackathon : VARIOUS-ONE](https://github.com/VARIOUS-ONE)
 
 
-## Sentiment Analyisis
+## 1. Sentiment Analyisis
 
 ### git clone 
 
@@ -26,3 +26,6 @@ python predict.py # or # python3 predict.py
 ### Result
 
 ![image](https://user-images.githubusercontent.com/55095806/186350560-2be4b5c2-5950-43b2-894d-dc05887332e6.png)
+
+
+## 2. XAI
