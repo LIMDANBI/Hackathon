@@ -4,6 +4,8 @@
 
 ## 1. Sentiment Analyisis
 
+내용 정리 : [KoBERT fine-tuning : Sentiment Analysis](https://velog.io/@danbibibi/KoBERT-fine-tuning-Sentiment-Analysis)
+
 ### git clone 
 
 ```shell
