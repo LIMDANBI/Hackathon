@@ -27,7 +27,7 @@ python predict.py # or # python3 predict.py
 
 ### Result
 
-![image](https://user-images.githubusercontent.com/55095806/186350560-2be4b5c2-5950-43b2-894d-dc05887332e6.png)
+<img width="775" alt="image" src="https://user-images.githubusercontent.com/55095806/186354727-8de25268-f6fc-4024-842e-12c2af9b0753.png">
 
 
 <br/><br/>
