@@ -1,2 +1,2 @@
 # Hackathon
-[SKT FLY AI Hackathon](https://github.com/VARIOUS-ONE)
+[SKT FLY AI Hackathon : VARIOUS-ONE](https://github.com/VARIOUS-ONE)
