@@ -22,7 +22,9 @@ cd Hackathon
 ### Run
  
 ```shell
-python predict.py # or # python3 predict.py
+python predict.py 
+# or 
+# python3 predict.py
 ```
 
 ### Result
