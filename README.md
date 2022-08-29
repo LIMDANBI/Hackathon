@@ -11,6 +11,7 @@
 ```shell
 git clone https://github.com/LIMDANBI/Hackathon.git
 cd Hackathon
+git lfs pull
 ```
 
 ### install
