@@ -36,3 +36,6 @@ python predict.py
 <br/><br/>
 
 ## 2. XAI using PyTorch Captum
+
+![image](https://user-images.githubusercontent.com/55095806/187665097-202a0599-6949-4150-b0e1-fd3621ecd234.png)
+
