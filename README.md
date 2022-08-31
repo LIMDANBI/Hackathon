@@ -35,4 +35,4 @@ python predict.py
 
 <br/><br/>
 
-## 2. XAI
+## 2. XAI using PyTorch Captum
